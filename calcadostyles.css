@@ -1,0 +1,104 @@
+#footer_page li:first-child a {
+    color: aquamarine;
+}
+
+body {
+    padding-bottom: 125px;
+}
+
+footer {
+    position: fixed;
+    height: 90px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+
+.imagem_pagina_principal2 {
+    margin: 0;
+}
+
+#frontimg2 {
+    position: relative;
+    clear: both;
+    margin: auto;
+    display: block;
+    height: auto;
+    width: 35%;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+#images_sapatos1 {
+    width: 25%;
+    height: auto;
+    display: inline;
+}
+
+#sapato1 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+    margin: 20px;
+}
+
+#sapato2 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+    margin: 20px;
+}
+
+#sapato3 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+    margin: 20px;
+}
+
+#images_sapatos2 {
+    width: 25%;
+    height: auto;
+    display: inline;
+}
+
+#sapato7 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+}
+
+#sapato8 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+    margin: 20px;
+}
+
+#sapato9 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+}
+
+#images_sapatos3 {
+    width: 25%;
+    height: auto;
+    display: inline;
+}
+
+#sapato12 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+}
+
+h3 {
+    padding-bottom: 1.5rem;
+}
+
+ul {
+    list-style: circle;
+}
