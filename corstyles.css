@@ -1,0 +1,122 @@
+#footer_page #backgroundtextcolor {
+    color: aquamarine;
+}
+
+.imagem_pagina_principal2 {
+    margin: auto;
+}
+
+body {
+    padding-bottom: 1rem;
+}
+
+#frontimg {
+    position: relative;
+    margin: auto;   
+    height: auto;
+    width: 50%;
+    display: block;
+}
+
+h3 {
+    margin: auto;
+    padding-top: 2rem;
+}
+
+.imagem_pagina_principal {
+    margin: 0;
+    display: inline-block;
+    background: linear-gradient(to right, #163868 50%, #15448b 50%);
+    background-position: left, right;
+}
+
+.images_cores1 {
+    width: 100%;
+    height: 472px;
+    display: inline-block;
+    background: linear-gradient(to right, #4f8ec9 50%, #b7521c 50%);
+    background-position: left, right;
+}
+
+#cor1 {
+    display: inline-block;
+    height: 472px;
+}
+
+.images_cores2 {
+    width: 100%;
+    height: 472px;
+    display: inline-block;
+    background: linear-gradient(to right, #f7dd6f 50%, #bdbfbe 50%);
+    background-position: left, right;
+}
+
+#cor2 {
+    display: inline-block;
+    height: 472px;
+}
+
+.images_cores3 {
+    width: 100%;
+    height: 472px;
+    display: inline-block;
+    background: linear-gradient(to right, #90c4da 50%, #fcc0dc 50%);
+    background-position: left, right;
+}
+
+#cor3 {
+    display: inline-block;
+    height: 472px;
+}
+
+.images_cores4 {
+    width: 100%;
+    height: 472px;
+    display: inline-block;
+    background: linear-gradient(to right, #163867 50%, #15448b 50%);
+    background-position: left, right;
+}
+
+#cor4 {
+    display: inline-block;
+    height: 472px;
+}
+
+.images_cores5 {
+    width: 100%;
+    height: 472px;
+    display: inline-block;
+    background: linear-gradient(to right, #a16aad 50%, #f888ba 50%);
+    background-position: left, right;
+}
+
+#cor5 {
+    display: inline-block;
+    height: 472px;
+}
+
+.images_cores6 {
+    width: 100%;
+    height: 472px;
+    display: inline-block;
+    background: linear-gradient(to right, #01b4d4 50%, #ff5a92 50%);
+    background-position: left, right;
+}
+
+#cor6 {
+    display: inline-block;
+    height: 472px;
+}
+
+.images_cores7 {
+    width: 100%;
+    height: 472px;
+    display: inline-block;
+    background: linear-gradient(to right, #2a618e 50%, #006a50 50%);
+    background-position: left, right;
+}
+
+#cor7 {
+    display: inline-block;
+    height: 472px;
+}

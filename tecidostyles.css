@@ -1,0 +1,25 @@
+#footer_page #backgroundtextcolor {
+    color: aquamarine;
+}
+
+.imagem_pagina_principal2 {
+    margin: auto;
+}
+
+body {
+    padding-bottom: 1rem;
+}
+
+#frontimg {
+    position: relative;
+    margin: auto;   
+    height: auto;
+    width: 77.7%;
+    display: block;
+}
+
+h3 {
+    margin: auto;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}

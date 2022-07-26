@@ -1,30 +1,26 @@
-#footer_page li:first-child a {
+#footer_page li:first-child {
     color: aquamarine;
 }
 
-body {
-    padding-bottom: 125px;
-}
-
 footer {
-    position: fixed;
-    height: 90px;
-    width: 100%;
+    position: relative;
+    height: 100%;
+    width: auto;
     bottom: 0;
     left: 0;
 }
 
 .imagem_pagina_principal2 {
-    margin: 0;
+    margin: auto;
 }
 
-#frontimg2 {
+#frontimg {
     position: relative;
     clear: both;
     margin: auto;
     display: block;
     height: auto;
-    width: 35%;
+    width: 100%;
 }
 
 h3 {
@@ -95,10 +91,6 @@ h3 {
     margin-top: 5px;
 }
 
-h3 {
-    padding-bottom: 1.5rem;
-}
-
-ul {
-    list-style: circle;
+.final_page h3, li {
+    padding: 0.5rem;
 }

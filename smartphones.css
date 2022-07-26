@@ -19,10 +19,6 @@ a {
     color: inherit;
 }
 
-a:hover {
-    text-decoration: underline;
-}
-
 #fronttext {
     text-decoration: none;
 }
@@ -34,10 +30,11 @@ a:hover {
     display: block;
     height: auto;
     width: 100%;
+    max-width: 100%;
 }
 
 header {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Josef Sans', cursive;
     font-weight: bold;
     background-color: black;
     border-style: solid;
@@ -63,7 +60,7 @@ footer {
 }
 
 #footer_page li {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Josef Sans', cursive;
     font-weight: bold;
     display: block;
     color: white;
@@ -100,4 +97,398 @@ footer {
 
 #informacoes em {
     font-weight: 400;
+}
+
+.images_cores1 {
+    height: 382px;
+}
+
+#cor1 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_cores2 {
+    height: 382px;
+}
+
+#cor2 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_cores3 {
+    height: 382px;
+}
+
+#cor3 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_cores4 {
+    height: 382px;
+}
+
+#cor4 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_cores5 {
+    height: 382px;
+}
+
+#cor5 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_cores6 {
+    height: 382px;
+}
+
+#cor6 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_cores7 {
+    height: 382px;
+}
+
+#cor7 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem8 {
+    height: 382px;
+}
+
+#maquiagem8 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem9 {
+    height: 382px;
+}
+
+#maquiagem9 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem10 {
+    height: 382px;
+}
+
+#maquiagem10 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem11 {
+    height: 382px;
+}
+
+#maquiagem11 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem12 {
+    height: 382px;
+}
+
+#maquiagem12 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem13 {
+    height: 382px;
+}
+
+#maquiagem13 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem14 {
+    height: 382px;
+}
+
+#maquiagem14 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem15 {
+    height: 382px;
+}
+
+#maquiagem15 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem16 {
+    height: 382px;
+}
+
+#maquiagem16 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem17 {
+    height: 382px;
+}
+
+#maquiagem17 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem18 {
+    height: 382px;
+}
+
+#maquiagem18 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem19 {
+    height: 382px;
+}
+
+#maquiagem19 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem20 {
+    height: 382px;
+}
+
+#maquiagem20 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_maquiagem21 {
+    height: 382px;
+}
+
+#maquiagem21 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_tecidos1 {
+    height: 382px;
+}
+
+#tecidos1 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_tecidos2 {
+    height: 382px;
+}
+
+#tecidos2 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_tecidos3 {
+    height: 382px;
+}
+
+#tecidos3 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_tecidos4 {
+    height: 382px;
+    padding-bottom: 2rem;
+}
+
+#tecidos4 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_tecidos5 {
+    height: 382px;
+}
+
+#tecidos5 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_tecidos6 {
+    height: 382px;
+}
+
+#tecidos6 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_tecidos7 {
+    height: 382px;
+}
+
+#tecidos7 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_tecidos8 {
+    height: 382px;
+}
+
+#tecidos8 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_tecidos9 {
+    height: 382px;
+}
+
+#tecidos9 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_tecidos10 {
+    height: 382px;
+}
+
+#tecidos10 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.images_tecidos11 {
+    height: 382px;
+}
+
+#tecidos11 {
+    position: relative;
+    clear: both;
+    margin: 0;
+    height: 382px;
+    width: 482px;
+}
+
+.imagem_pagina_principal2 {
+    position: relative;
+    clear: both;
+    margin: auto;
+    display: block;
+    width: 482px;
+    height: auto;
 }

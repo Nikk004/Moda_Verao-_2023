@@ -33,7 +33,7 @@ a {
 }
 
 header {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Josef Sans', cursive;
     font-weight: bold;
     background-color: black;
     border-style: solid;
@@ -59,7 +59,7 @@ footer {
 }
 
 #footer_page li {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Josef Sans', cursive;
     font-weight: bold;
     display: inline-block;
     color: white;
